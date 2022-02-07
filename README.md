@@ -9,4 +9,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning DjangoREST
 - 📫 How to reach me: malovu01@mail.ru
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aeSYNK&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=qwerty1501&theme=radical)
